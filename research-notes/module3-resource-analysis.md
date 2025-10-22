@@ -1,0 +1,51 @@
+## Deep Dive Resource Analysis
+### Topic 1: Social Engineering
+## Resource 1:
+- Citation: Zhuo, S., Biddle, R., Betts, L., Arachchilage, N. A. G., Koh, Y. S., Russello, G., & Lottridge, D. (2024). The impact of workload on phishing susceptibility: An experiment. In USEC 2024. 
+- Type: Academic Conference Paper
+- Synopsis: This experiment tested 26 people to see how being busy affects phishing risk. Participants processed emails under low and high workload conditions while their eye movements were tracked. When workload was high, participants skimmed faster, paid less attention, and were more likely to click fake 'phishing' links if they seemed relevant. It shows stress and limited attention increase vulnerability. Limitation: small group, lab setting.
+- Link: https://www.ndss-symposium.org/wp-content/uploads/usec2024-24-paper.pdf
+- Relevance: 5/5
+## Resource 2:
+- Citation : Alshammari, S. S., Soh, B., & Li, A. (2025). Understanding social engineering victimisation on social networking sites: A comprehensive review of factors influencing user susceptibility to cyber-attacks. Information, 16(2), 153. 
+- Type: Academic Journal Article
+- Synopsis: Reviewed 47 studies about why people fall for scams on social media. Found 90 factors like age, emotions, habits, and message design. Results sometimes conflict, showing that context matters. Limitation: focused on social networking only.
+- Link: https://www.mdpi.com/2078-2489/16/2/153
+- Relevance: 5/5
+## Resource 3:
+- Citation: Verizon. (2025). 2025 Data Breach Investigations Report (DBIR). Verizon Business.
+- Type: Industry Report
+- Synopsis: Based on thousands of real-world incidents. Shows phishing and pretexting remain top attack methods. Provides stats, case studies, and trends. Useful for real-world credibility. Limitation: broad and business-focused.
+- Link: https://www.verizon.com/business/resources/T163/reports/2025-dbir-data-breach-investigations-report.pdf
+- Relevance: 5/5
+## Resource 4:
+- Citation: Cybersecurity and Infrastructure Security Agency (CISA). (2023). Phishing Guidance: Stopping the Attack Cycle at Phase One.
+- Type: Government Guide
+- Synopsis: Practical advice to stop phishing, including email filters, multi-factor authentication, and training. Explains how to block attacks at the earliest stage. Limitation: U.S.-centric.
+- Link: https://www.cisa.gov/sites/default/files/2023-10/Phishing%20Guidance%20-%20Stopping%20the%20Attack%20Cycle%20at%20Phase%20One_508c.pdf
+- Relevance: 4/5
+### Topic 2: Secure Code Review
+## Resource 1:
+- Citation: Thompson, C., & Wagner, D. (2017). A large-scale study of modern code review and security in open source projects. In Proceedings of PROMISE ’17.
+- Type: Academic Conference Paper
+- Synopsis: Looked at thousands of open-source projects. Found that projects with more frequent and thorough reviews tended to have fewer security problems. Shows code review improves security. Limitation: only open source studied.
+- Link: https://people.eecs.berkeley.edu/~daw/papers/coderev-promise17.pdf
+- Relevance: 5/5
+## Resource 2:
+- Citation: Yilmaz, T., Bas, S., & Ozkan, B. (2022). Understanding security vulnerabilities in student code: A case study in a non-security course. Journal of Systems and Software, 182, 
+- Type: Academic Journal Article
+- Synopsis: Analyzed student programming work for security mistakes. Found common problems like unsafe input handling and weak password storage. Highlights why secure coding and reviews need to be taught early. Limitation: student code is simpler than business software.
+- Link: https://www.sciencedirect.com/science/article/abs/pii/S0164121221002430
+- Relevance: 4/5
+## Resource 3:
+- Citation: Charoenwet, W., Thongtanunam, P., Pham, V.-T., & Treude, C. (2024). An empirical study of static analysis tools for secure code review. arXiv. 
+- Type: Academic Preprint
+- Synopsis: Tested code-scanning tools used to support reviewers. Found they help but miss serious issues and often give false alarms. Proves why human reviewers are still necessary. Limitation: only certain languages/projects tested.
+- Link: https://arxiv.org/abs/2407.12241
+- Relevance: 5/5
+## Resource 4:
+- Citation: Papotti, A., Carminati, B., & Horgan, T. (2025). On the effects of program slicing for vulnerability detection. PeerJ Computer Science, 11, e1745
+- Type: Academic Journal Article
+- Synopsis: Explores 'program slicing,' a way to focus review only on relevant code sections. Found it makes reviews faster and still effective at catching vulnerabilities. Suggests new methods to help reviewers. Limitation: tested in controlled experiments, not widely adopted yet.
+- Link: https://peerj.com/articles/cs-1745
+- Relevance: 4/5
