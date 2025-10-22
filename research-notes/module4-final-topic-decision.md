@@ -4,7 +4,8 @@ For my research on Secure Code Review, I will need to learn some basic programmi
 
 
 
-Criteria	Topic 1: Social Engineering (1–5)	Topic 2: Secure Code Review (1–5)
+Criteria	
+Topic 1: Social Engineering (1–5)	Topic 2: Secure Code Review (1–5)
 Feasibility / Accessibility	5 	3 
 Personal Interest	5 	4 
 Learning Potential	4 	5 
